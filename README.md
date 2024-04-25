@@ -27,4 +27,4 @@ Each project folder contains Jupyter Notebooks (.ipynb) showcasing the code, dat
 
 Link to Repository: [Data-Analysis-Projects](https://github.com/OlajideFemi/Data-Analysis-Projects)
 
-Feel free to customize the repository structure and project descriptions according to your specific projects and preferences.
+
